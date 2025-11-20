@@ -3,6 +3,15 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+### IntelliJ IDEA ###
+.idea/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Configuration générale / Autres dossiers de build ###
+META-INF/
+
 ### Eclipse ###
 .apt_generated
 .classpath
