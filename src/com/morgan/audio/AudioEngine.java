@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.audio;
 
 import javax.sound.sampled.*;
 

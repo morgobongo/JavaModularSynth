@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.audio;
 
 /**
  * VCA (Voltage-Controlled Amplifier).

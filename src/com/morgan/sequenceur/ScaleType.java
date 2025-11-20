@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.sequenceur;
 
 import java.util.Map;
 import java.util.HashMap;

@@ -1,4 +1,6 @@
-package com.morgan;
+package com.morgan.audio;
+
+import com.morgan.main.SynthMain;
 
 import javax.sound.midi.*;
 

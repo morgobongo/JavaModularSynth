@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.audio;
 
 /**
  * Un module Mixer qui prend deux entrées AudioModule et les mélange.

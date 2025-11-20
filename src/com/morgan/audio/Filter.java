@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.audio;
 
 /**
  * Filtre Passe-Bas à deux pôles (Low-Pass Filter) avec résonance.

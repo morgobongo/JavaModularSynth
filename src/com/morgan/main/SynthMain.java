@@ -1,4 +1,9 @@
-package com.morgan;
+package com.morgan.main;
+
+import com.morgan.audio.AudioEngine;
+import com.morgan.audio.MidiReceiver;
+import com.morgan.sequenceur.StepSequencer;
+import com.morgan.gui.SynthGui;
 
 import javax.sound.midi.*;
 import javax.swing.SwingUtilities;

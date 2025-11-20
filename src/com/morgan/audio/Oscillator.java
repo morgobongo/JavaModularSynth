@@ -1,4 +1,4 @@
-package com.morgan;
+package com.morgan.audio;
 
 import java.util.Random;
 

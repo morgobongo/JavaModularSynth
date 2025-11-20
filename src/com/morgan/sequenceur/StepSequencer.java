@@ -1,4 +1,6 @@
-package com.morgan;
+package com.morgan.sequenceur;
+
+import com.morgan.audio.AudioEngine;
 
 import java.util.Random;
 
